@@ -18,7 +18,7 @@ app.use(
       "http://localhost:5173",
       "http://localhost:5174",
       "http://localhost:5175",
-      "https://think-board-4djd.vercel.app",
+      "https://keith-think-board.vercel.app",
     ],
   }),
 );
